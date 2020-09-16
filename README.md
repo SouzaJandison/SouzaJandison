@@ -12,9 +12,7 @@
 <a href="mailto:jandsonbarbosa.dev@gmail.com" alt="Gmail">
 <img src="https://img.shields.io/badge/-jandsonbarbosa.dev@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=jandsonbarbosa.dev@gmail.com" /></a>
 </a>
-  
 <a href="https://www.linkedin.com/in/jandisonbarbosa" alt="Linkedin">
-
+<img src="https://img.shields.io/badge/-Jandison%20Barbosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jandisonbarbosa/" />
 </a>
-
 </p>
