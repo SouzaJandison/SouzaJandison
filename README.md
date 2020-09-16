@@ -2,7 +2,7 @@
 
 My name is Jandison Barbosa 👦🏼‍🇧🇷
 
-I'm a backend developer. 💻
+💻 I'm a backend developer.
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
