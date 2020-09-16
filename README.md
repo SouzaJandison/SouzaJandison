@@ -2,9 +2,11 @@
 
 My name is Jandison Barbosa 👦🏼‍🇧🇷
 
+I'm a backend developer. 💻
 
+I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
-🚀 Skills: <strong>JavaScript, Node.js, HTML5, CSS3, SQL e NoSQL.</strong>
+🚀 Skills: **JavaScript, Node.js, HTML5, CSS3, SQL e NoSQL.**
 
 Reach me out 👇🏼
 
