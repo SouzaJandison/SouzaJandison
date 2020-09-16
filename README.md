@@ -9,9 +9,8 @@
 </p>
 
 <p align="left">
-<a href="mailto:jandsonbarbosa.dev@gmail.com" alt="Gmail">
-<img src="https://img.shields.io/badge/-iuricodebrasil@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=iuricodebrasil@gmail.com" /></a>
+<a href="mailto:jandsonbarbosa.dev@gmail.com" alt="Gmail"></a>
   
-<a href="https://www.linkedin.com/in/jandisonbarbosa" alt="Linkedin">
-<img src="https://img.shields.io/badge/-Iuri%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
+<a href="https://www.linkedin.com/in/jandisonbarbosa" alt="Linkedin"></a>
+
 </p>
