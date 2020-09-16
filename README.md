@@ -2,14 +2,9 @@
 
 My name is Jandison Barbosa 👦🏼‍🇧🇷
 
-<p align="left">
-  Olá, meu nome é Iuri sou <strong>Desenvolvedor Front-end</strong> e <strong>UI Designer</strong>.<br>
-  Estou cursando Desenvolvimento de Sistemas e Sistema para Internet.
-</p>
 
-<p align="left">
-  🚀 Skills: <strong>JavaScript, Node.js, HTML5, CSS3, SQL e NoSQL.</strong>
-</p>
+
+🚀 Skills: <strong>JavaScript, Node.js, HTML5, CSS3, SQL e NoSQL.</strong>
 
 Reach me out 👇🏼
 
