@@ -6,7 +6,7 @@ My name is Jandison Barbosa 👦🏼‍🇧🇷
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
-🚀 Skills: **JavaScript, TypeScript, Node.js, React, SQL e NoSQL.**
+🚀 Skills: **JavaScript, TypeScript, Node.js, React, HTML, CSS, SCSS, SQL e NoSQL.**
 
 Reach me out 👇🏼
 
